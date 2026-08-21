@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787325030 source:e:\c pgm\c\bus reservation\main.c
+	<stdio.h>
+	<string.h>
+
